@@ -2,7 +2,9 @@
 
 Welcome to my GitHub! I am a versatile software engineer with expertise in mobile development, web technologies, and IoT solutions. My passion is creating innovative and seamless experiences that bridge the gap between software and hardware.
 
-![Coding GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
+</p>
 
 ---
 
@@ -33,6 +35,11 @@ Here are some of the key areas I’ve worked on:
 - **Web Applications:** Designed dynamic web platforms with interactive 3D elements using Three.js and robust back-end architecture.
 - **IoT Systems:** Engineered end-to-end IoT solutions with integrated cloud services and embedded hardware systems.
 - **3D Printer Firmware Customization:** Contributed to open-source 3D printer firmware (Marlin) and tailored it for specific hardware optimizations.
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="400"/>
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="400"/>
+</p>
 
 ---
 

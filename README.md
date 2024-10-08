@@ -12,18 +12,18 @@ Welcome to my GitHub! I am a versatile software engineer with expertise in mobil
 
 - **Mobile Development:** Android Native | Flutter/Dart
 - **Web Technologies:** PHP | Three.js | JavaScript
-- **Backend Development:** Java | PHP
-- **IoT & Hardware:** Embedded Systems | 3D Printer Firmware (Marlin)
+- **Backend Development:** Java, Hiebrnate, Spring Framework | PHP
+- **IoT & Hardware:** Embedded Systems | 3D Printer Firmware (Marlin) | Arduino IDE
 
 ---
 
 ### 🔍 **Core Competencies**
 
-- Developing **cross-platform mobile applications** using Flutter and Android Native
+- Developing **cross-platform mobile applications** using Flutter (Dart Language), Using Android JAVA for Native Development
 - Creating **interactive 3D web experiences** using Three.js
-- Implementing **IoT solutions** for connected devices and systems
+- Implementing **IoT solutions** for connected devices and Systems
 - Customizing and optimizing **3D printer firmware** (Marlin) for embedded systems
-- Proficiency in **cloud integration** and back-end systems
+- Proficiency in **cloud integration** and back-end systems | Azure DevOps
 
 ---
 

@@ -11,8 +11,8 @@ Welcome to my GitHub! I am a versatile software engineer with expertise in mobil
 ### 💼 **Professional Expertise**
 
 - **Mobile Development:** Android Native | Flutter/Dart
-- **Web Technologies:** PHP | Three.js | JavaScript
-- **Backend Development:** Java, Hiebrnate, Spring Framework | PHP
+- **Web Technologies:** PHP | Three.js | JavaScript | Node.js 
+- **Backend Development:** Java, Hiebrnate, Spring Framework | PHP | Asp.net Core Web Api's
 - **IoT & Hardware:** Embedded Systems | 3D Printer Firmware (Marlin) | Arduino IDE
 
 ---

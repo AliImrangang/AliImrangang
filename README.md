@@ -1,4 +1,4 @@
-# 👨‍💻 Ali Imran - Full-Stack Developer & IoT Specialist
+# 👨‍💻 Ali Imran  (Full-Stack Developer & IoT Specialist)
 
 Welcome to my GitHub! I am a versatile software engineer with expertise in mobile development, web technologies, and IoT solutions. My passion is creating innovative and seamless experiences that bridge the gap between software and hardware.
 
